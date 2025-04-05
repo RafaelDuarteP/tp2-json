@@ -1,6 +1,7 @@
 {
   "objects": [
-    { "type": "block", "x": 0, "y": 0 },
-    { "type": "coin", "x": 2, "y": 1 }
+    { "type": "world", "x": 0, "y": 0 },
+    { "type": "mario", "x": -7.39, "y": -1.1 },
+    { "type": "koopa-troopa", "x": -2.98, "y": -0.72} 
   ]
 }
