@@ -2,6 +2,6 @@
   "objects": [
     { "type": "world", "x": 0, "y": 0 },
     { "type": "mario", "x": -7.39, "y": -1.1 },
-    { "type": "koopa-troopa", "x": -2.98, "y": -0.72} 
+    { "type": "koopa-troopa", "x": 5.97, "y": 2.74} 
   ]
 }
